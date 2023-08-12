@@ -4,4 +4,4 @@
 - 💻 Python, Sql, C.
 - 🌱 Machine Learning, Data Science.
 - 📚 Computational and Applied Mathematics - Unicamp.
-- 📫 [LinkedIn](linkedin.com/in/annaclaraamancio)
+- 📫 [LinkedIn](https://www.linkedin.com/in/annaclaraamancio)
