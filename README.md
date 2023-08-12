@@ -1,5 +1,4 @@
-### hello, world! 👋
-### I'm Clara! 👋
+ ### Hi, I'm Clara! 👋
 
 - 🌱 C, Python, Sql.
 - 🔭 Machine Learning, Data Science.
