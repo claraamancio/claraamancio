@@ -1,4 +1,4 @@
- ### Hi, I'm Clara! 👋
+ ### Hi, I'm Anna Clara! 👋
  
 - 👩 She/Her.
 - 💻 Python, Sql, C.
